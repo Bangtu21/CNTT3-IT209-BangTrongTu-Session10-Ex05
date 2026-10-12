@@ -25,3 +25,5 @@
 - Backend phân giải được hostname `database`.
 - PostgreSQL sử dụng volume `pgdata` để lưu dữ liệu.
 - Các biến cấu hình được quản lý qua `.env`.
+
+(2 file .env.example và .gitignore nộp lên github thì nó bị ẩn ạ)
